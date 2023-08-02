@@ -1,5 +1,6 @@
 # sumo-platoon
-![输入图片描述](README_md_files/fa6af760-3121-11ee-92b0-8b71f5e918f9.jpeg?v=1&type=image)
+![image](https://github.com/k-seu/sumo-platoon/assets/46890938/47ab1655-dcec-4669-9edd-96b1dd11cd5c)
+
 **Fig 1. Logic of platform**
 
 As described in Fig 1, the platform mainly has 5 parts, the  system structure of the platform is following:
