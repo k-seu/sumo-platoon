@@ -1,5 +1,6 @@
 # sumo-platoon
-![image](https://github.com/k-seu/sumo-platoon/assets/46890938/47ab1655-dcec-4669-9edd-96b1dd11cd5c)
+![image](https://github.com/k-seu/sumo-platoon/assets/46890938/f911cb5b-7b7c-4c60-af96-f31fe4018e65)
+
 
 **Fig 1. Logic of platform**
 
